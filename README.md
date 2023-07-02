@@ -2,10 +2,10 @@
   <tbody>
     <tr>
       <td width="40%">
-        <img src="https://github-readme-stats.vercel.app/api?username=george-chou&hide_rank=true&show_icons=true&theme=dracula&hide=contribs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=george-chou&hide_rank=false&show_icons=true&theme=dracula&hide=contribs" />
       </td>
       <td width="20%">
-        <h4 style="text-align: center;">笑死🤣<br>👇这还有个黑塔小人</h4>
+        <h4 style="text-align: center !important;">笑死🤣<br>👇这还有个黑塔小人</h4>
         <img src="https://github.com/george-chou/george-chou/assets/20459298/7aa69819-64eb-4095-a773-ef0905519c94" /img>
       </td>
       <td width="40%">
